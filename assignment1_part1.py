@@ -1,3 +1,4 @@
+#Work done by Samin Yasar
 def list_divide(numbers, divide=2):
     elements = 0
     for n in numbers:
